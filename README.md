@@ -11,7 +11,7 @@ A convolutional neural network (CNN) that classifies dog breeds from images, ser
 ---
 
 
-![Pipeline]![Pipeline](https://github.com/user-attachments/assets/c74a9be2-96c7-4532-99da-a624c24910f4)
+![Pipeline](https://github.com/user-attachments/assets/c74a9be2-96c7-4532-99da-a624c24910f4)
 ---
 
 ## Demo

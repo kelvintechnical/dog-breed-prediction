@@ -173,7 +173,7 @@ Software engineer transitioning into AI/ML, with a research focus on computation
 - B.S. Software Engineering, Western Governors University (2026)
 - M.S. AI Engineering Candidate, WGU (target: Dec 2026)
 
-[LinkedIn](https://linkedin.com/in/kaboroinformatics) | [GitHub](https://github.com/kaboroinformatics) | [Kelvinintech Consulting LLC](https://kelvinintech.com)
+[LinkedIn](https://www.linkedin.com/in/kelvin-r-tobias-211949219/) | [GitHub](https://github.com/kelvintechnical) | [Kelvinintech Consulting LLC](https://kelvinintech.com)
 
 ---
 

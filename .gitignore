@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# Model file (too large)
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
